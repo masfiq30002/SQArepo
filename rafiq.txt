@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Now its edited
 edited by me
+=======
+This is Rafiq,s TXT
+>>>>>>> 6883739a7605bfdbf04a781adba0d6ea06eef852
